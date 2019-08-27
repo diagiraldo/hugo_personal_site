@@ -1,0 +1,4 @@
+baseURL = "http://diagiraldo.com/"
+languageCode = "en-us"
+title = "Holi"
+theme = "minimal"
