@@ -1,4 +1,32 @@
 baseURL = "http://diagiraldo.com/"
 languageCode = "en-us"
-title = "Holi"
+title = "Holi pobres"
 theme = "minimal"
+
+[params]
+    author = "Diana Giraldo"
+    description = "I am learning to do this from scratch :grimacing:"
+    accent = "#645394"
+    showBorder = false
+    backgroundColor = "white"
+    font = "Nunito Sans"
+    enableEmoji = true
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "https://github.com/diagiraldo/"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/diagiraldo/"
+    name = "twitter"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://instagram.com/diagiraldo/"
+    name = "instagram"
+    weight = 3
